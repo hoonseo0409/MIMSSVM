@@ -1,7 +1,7 @@
 # MIMSSVM: Multi-Instance Multi-Shape Support Vector Machine
 
 ## Overview
-Implementation of Multi-Instance Multi-Shape Support Vector Machine (MIMSSVM), a novel approach for multi-instance learning that effectively handles instances with varying shapes and sizes. The model integrates group sparsity regularization and trace norm optimization to capture multi-modal patterns in the data.
+Implementation of Multi-Instance Multi-Shape Support Vector Machine (MIMSSVM), a novel approach for multi-instance learning that effectively handles image instances which consist of patches with the varying shapes. The model integrates group sparsity regularization and trace norm optimization to capture multi-modal patterns in the data.
 
 ## Requirements
 - Julia 1.6 or later
